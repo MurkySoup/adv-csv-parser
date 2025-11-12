@@ -1,5 +1,5 @@
 # adv-csv-parser
-An Advanced CSV Analysis, Paresing and Extraction Utility
+An Advanced CSV Analysis, Parsing and Extraction Utility
 
 ## Description
 
